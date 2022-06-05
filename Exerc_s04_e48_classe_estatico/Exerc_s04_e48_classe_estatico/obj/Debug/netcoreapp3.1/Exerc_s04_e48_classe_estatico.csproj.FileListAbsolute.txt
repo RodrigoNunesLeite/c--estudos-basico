@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\bin\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\bin\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\bin\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\bin\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\bin\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\bin\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e48_classe_estatico\Exerc_s04_e48_classe_estatico\obj\Debug\netcoreapp3.1\Exerc_s04_e48_classe_estatico.genruntimeconfig.cache

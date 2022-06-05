@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\bin\Debug\netcoreapp3.1\Exerc_s11_e155.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\bin\Debug\netcoreapp3.1\Exerc_s11_e155.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\bin\Debug\netcoreapp3.1\Exerc_s11_e155.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\bin\Debug\netcoreapp3.1\Exerc_s11_e155.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\bin\Debug\netcoreapp3.1\Exerc_s11_e155.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\bin\Debug\netcoreapp3.1\Exerc_s11_e155.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s11_e155\Exerc_s11_e155\obj\Debug\netcoreapp3.1\Exerc_s11_e155.genruntimeconfig.cache

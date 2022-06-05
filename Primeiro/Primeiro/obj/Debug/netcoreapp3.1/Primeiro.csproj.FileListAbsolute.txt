@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

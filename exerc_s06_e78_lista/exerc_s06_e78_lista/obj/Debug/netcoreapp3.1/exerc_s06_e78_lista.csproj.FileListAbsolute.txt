@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\bin\Debug\netcoreapp3.1\exerc_s06_e78_lista.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\bin\Debug\netcoreapp3.1\exerc_s06_e78_lista.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\bin\Debug\netcoreapp3.1\exerc_s06_e78_lista.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\bin\Debug\netcoreapp3.1\exerc_s06_e78_lista.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\bin\Debug\netcoreapp3.1\exerc_s06_e78_lista.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\bin\Debug\netcoreapp3.1\exerc_s06_e78_lista.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\exerc_s06_e78_lista\exerc_s06_e78_lista\obj\Debug\netcoreapp3.1\exerc_s06_e78_lista.genruntimeconfig.cache

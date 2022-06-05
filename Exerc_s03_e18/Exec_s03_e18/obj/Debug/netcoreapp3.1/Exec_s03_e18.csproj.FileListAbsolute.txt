@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\bin\Debug\netcoreapp3.1\Exec_s03_e18.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\bin\Debug\netcoreapp3.1\Exec_s03_e18.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\bin\Debug\netcoreapp3.1\Exec_s03_e18.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\bin\Debug\netcoreapp3.1\Exec_s03_e18.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\bin\Debug\netcoreapp3.1\Exec_s03_e18.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\bin\Debug\netcoreapp3.1\Exec_s03_e18.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\obj\Debug\netcoreapp3.1\Exec_s03_e18.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\obj\Debug\netcoreapp3.1\Exec_s03_e18.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\obj\Debug\netcoreapp3.1\Exec_s03_e18.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\obj\Debug\netcoreapp3.1\Exec_s03_e18.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\obj\Debug\netcoreapp3.1\Exec_s03_e18.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e18\Exec_s03_e18\obj\Debug\netcoreapp3.1\Exec_s03_e18.genruntimeconfig.cache

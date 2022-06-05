@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\bin\Debug\netcoreapp3.1\Exec_s03_e24.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\bin\Debug\netcoreapp3.1\Exec_s03_e24.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\bin\Debug\netcoreapp3.1\Exec_s03_e24.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\bin\Debug\netcoreapp3.1\Exec_s03_e24.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\bin\Debug\netcoreapp3.1\Exec_s03_e24.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\bin\Debug\netcoreapp3.1\Exec_s03_e24.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e24\Exec_s03_e24\obj\Debug\netcoreapp3.1\Exec_s03_e24.genruntimeconfig.cache

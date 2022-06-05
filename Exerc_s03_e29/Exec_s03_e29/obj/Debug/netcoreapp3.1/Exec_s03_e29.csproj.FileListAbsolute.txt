@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\bin\Debug\netcoreapp3.1\Exec_s03_e29.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\bin\Debug\netcoreapp3.1\Exec_s03_e29.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\bin\Debug\netcoreapp3.1\Exec_s03_e29.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\bin\Debug\netcoreapp3.1\Exec_s03_e29.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\bin\Debug\netcoreapp3.1\Exec_s03_e29.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\bin\Debug\netcoreapp3.1\Exec_s03_e29.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exec_s03_e29\Exec_s03_e29\obj\Debug\netcoreapp3.1\Exec_s03_e29.genruntimeconfig.cache

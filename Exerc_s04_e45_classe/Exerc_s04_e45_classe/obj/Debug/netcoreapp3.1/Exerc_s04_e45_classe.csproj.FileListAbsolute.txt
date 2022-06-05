@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\bin\Debug\netcoreapp3.1\Exerc_s04_e45_classe.exe
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\bin\Debug\netcoreapp3.1\Exerc_s04_e45_classe.deps.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\bin\Debug\netcoreapp3.1\Exerc_s04_e45_classe.runtimeconfig.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\bin\Debug\netcoreapp3.1\Exerc_s04_e45_classe.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\bin\Debug\netcoreapp3.1\Exerc_s04_e45_classe.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\bin\Debug\netcoreapp3.1\Exerc_s04_e45_classe.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.dll
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.pdb
+C:\Users\Rodrigo\Documents\GitHub\c#_estudos\Exerc_s04_e45_classe\Exerc_s04_e45_classe\obj\Debug\netcoreapp3.1\Exerc_s04_e45_classe.genruntimeconfig.cache
